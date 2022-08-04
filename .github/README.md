@@ -1,8 +1,8 @@
 <p align="center">
-    <br><b>😫 𓆩🇦ʟᴇxɪᴀメ🇸ᴛᴇꜰꜰᴇɴ𓆪⁩ 🎧
+    <br><b>😫 ARGxALEXIA⁩ 🎧
  😫</b><br>
 </p>
-<p align="center"><a href="https://t.me/we_love_eachother"><img src="https://te.legra.ph/file/24ffa4efbd375a2e39ad9.jpg"></a></p>
+<p align="center"><a href="https://t.me/ARG_CHATS"><img src="https://te.legra.ph/file/5e748c5ec4389b7c33f5a.jpg"></a></p>
 
 Hey Baby this  is a advance &  one of the fastest Telegram Bot  that allows you to stream music on  Telegram Voice Chat.</b><br>
 <br>
@@ -57,7 +57,7 @@ Hey Baby this  is a advance &  one of the fastest Telegram Bot  that allows you 
 
 ### 🧪 Get `SESSION_NAME` variable:
 
-[``Pyrogram Session``](https://telegram.me/StringFatherBot)
+[``Pyrogram Session``](https://telegram.me/arg_stringsession_bot)
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
@@ -70,15 +70,14 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ### ᴄʀᴇᴅɪᴛs 👑
-- [STEFFEN 999  𓆩🇮🇳𓆪](https://github.com/Pkginstallsteffen): Developer
-- [𓆩🇦ʟᴇxɪᴀメ🇸ᴛᴇꜰꜰᴇɴ𓆪⁩ 🎧](http://t.me/alexiaXsteffen_bot): Use this Bot
+- [ ᵀᵉᵃᵐ『𝐒.𝐒』🇮🇳➤『𝙰𝚁𝙶』](https://t.me/ARG_GAMING_9300): Developer
+- [ARGxALEXIA 🎧](http://t.me/ARGxALEXIAbot): Use this Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/we_love_eachother"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/steffen999"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/About_Steffen999"><img src="https://img.shields.io/badge/%20About_me-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ARG_CHATS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ARG_GAMING_9300"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
