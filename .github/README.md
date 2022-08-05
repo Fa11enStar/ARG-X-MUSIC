@@ -69,6 +69,10 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/AnonymousR1025/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
+## Deploy on railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/q7pZ9c?referralCode=j-p8ba)
+
 ### ᴄʀᴇᴅɪᴛs 👑
 - [ ᵀᵉᵃᵐ『𝐒.𝐒』🇮🇳➤『𝙰𝚁𝙶』](https://t.me/ARG_GAMING_9300): Developer
 - [ARGxMUSIC 🎧](http://t.me/VIDEOxMUSIC_STREAMbot): Use this Bot
