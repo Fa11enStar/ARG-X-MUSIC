@@ -55,9 +55,9 @@ Hey Baby this  is a advance &  one of the fastest Telegram Bot  that allows you 
 - `/end` - stop music play
 </details>
 
-### 🧪 Get `SESSION_NAME` variable:
-
-[``Pyrogram Session``](https://telegram.me/arg_stringsession_bot)
+ ## String Session
+    
+<p align="center"><a href="https://telegram.me/arg_stringsession_bot"> <img src="https://te.legra.ph/file/fd8bcb29b5475b84a939e.jpg" width="200" height="35.45"/></a></p>
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
