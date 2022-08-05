@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b>😫 ARGxALEXIA⁩ 🎧
+    <br><b>😫 ARGxMUSIC⁩ 🎧
  😫</b><br>
 </p>
 <p align="center"><a href="https://t.me/ARG_CHATS"><img src="https://te.legra.ph/file/5e748c5ec4389b7c33f5a.jpg"></a></p>
@@ -71,7 +71,7 @@ The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ### ᴄʀᴇᴅɪᴛs 👑
 - [ ᵀᵉᵃᵐ『𝐒.𝐒』🇮🇳➤『𝙰𝚁𝙶』](https://t.me/ARG_GAMING_9300): Developer
-- [ARGxALEXIA 🎧](http://t.me/ARGxALEXIAbot): Use this Bot
+- [ARGxMUSIC 🎧](http://t.me/ARGxALEXIAbot): Use this Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
