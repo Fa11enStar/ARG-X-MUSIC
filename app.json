@@ -1,9 +1,9 @@
 {
-  "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
+  "name": "ARGxALEXIA",
+  "logo": "https://te.legra.ph/file/4b62671afb697b5c46b29.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
-  "keywords": ["music", "voicechat", "telegram", "steffen"],
-  "repository": "https://github.com/Pkginstallsteffen/Alexia-X-Steffen",
+  "keywords": ["music", "voicechat", "telegram", "ARG"],
+  "repository": "https://github.com/ARGGAMING777/ARG-X-Alexia",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -35,17 +35,17 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "STEFFEN999"
+      "value": "ARG_GAMING_9300"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "We_love_eachother"
+      "value": "ARG_CHATS"
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "5500487064"
+      "value": "5062902521"
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
